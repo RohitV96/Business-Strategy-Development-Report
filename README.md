@@ -1,1 +1,5 @@
-# Business-Strategy-Development-Report
+ In this project, we were required to adopt the role of an external strategy consulting group reporting to and advising the Board of Directors of a
+large domestic or international organization on a project under the company name Work Human®, a pioneer in the movement toward a human workplace for over two decades. Their core services are Software as a Service (SaaS) and human capital management software solutions.
+The report to the Board of Directors should contain the following principal elements:
+An analysis of the organization’s external environment, highlighting, in particular, the major trends evident in the organization’s environment, the opportunities and threats posed by these trends, and the implications of the same for the future strategy of the organization.
+An analysis of the organization’s internal strategic capability, especially in terms of its ability to respond to external opportunities and threats identified previously, with conclusions and recommendations for the future strategy.
